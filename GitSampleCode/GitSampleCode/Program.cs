@@ -10,7 +10,6 @@ namespace GitSampleCode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi Jigar :>");
         }
     }
 }
