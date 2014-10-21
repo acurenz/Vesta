@@ -12,6 +12,7 @@ namespace GitSampleCode
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Sample GIT code");
+            Console.WriteLine("another");
         }
     }
 }
