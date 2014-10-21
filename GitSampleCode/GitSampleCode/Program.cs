@@ -11,6 +11,7 @@ namespace GitSampleCode
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("Sample GIT code");
         }
     }
 }
